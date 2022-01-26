@@ -6,3 +6,5 @@
 While clicking the "Submit" button, the products' inventory will decrease on the left and they will show up in the Shopping Cart.
 The Checkout Amount will also update automatically.
 When there are no product left in stock, clicking the ReStock Products button will reset the inventory.
+
+The link for the repository is https://github.com/emeritus101/shoppingcart
