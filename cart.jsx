@@ -3,6 +3,7 @@
 
 the GitHub repository is found at the link below
 
+https://github.com/emeritus101/shoopingcart
 
 */
 
